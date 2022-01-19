@@ -4,7 +4,7 @@ import { Header } from "@buffetjs/custom";
 import {
   Deployments,
   DeployButton,
-} from "./../../../../plugins/strapi-plugin-vercel/admin/src/view";
+} from "./../../../../plugins/strapi-plugin-vercel/admin/src/view/";
 
 const Dashboard = () => {
   return (

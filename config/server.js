@@ -9,6 +9,7 @@ module.exports = ({ env }) => ({
   vercel: {
     token: env("pxAFjH89LUYDxx1DpCGXlYeF"),
     projectId: env("prj_Z4QcstDffevQKhYnmhtaca58G3JR"),
+    teamId: env("slezakt"),
     triggers: {
       production: env("Xu8ocNA1oX"),
     },
